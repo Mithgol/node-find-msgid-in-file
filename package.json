@@ -1,7 +1,7 @@
 {
 "name": "find-msgid-in-file",
 "main": "find-msgid-in-file.js",
-"version": "0.0.1",
+"version": "0.1.0",
 "description": "Finds the MSGID of a Fidonet message in the file containing that message.",
 "keywords": ["Fidonet", "FTN", "MSGID", "message"],
 "author": { "name": "Mithgol the Webmaster" },
