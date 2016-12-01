@@ -20,6 +20,8 @@ You may visit https://github.com/Mithgol/node-find-msgid-in-file#readme occasion
 
 ## Testing the MSGID finder
 
+[![(build testing status)](https://img.shields.io/travis/Mithgol/node-find-msgid-in-file/master.svg?style=plastic)](https://travis-ci.org/Mithgol/node-find-msgid-in-file)
+
 It is necessary to install [JSHint](http://jshint.com/) for testing.
 
 * You may install JSHint globally (`npm install jshint -g`) or locally (`npm install jshint` in the directory of the MSGID finder).
